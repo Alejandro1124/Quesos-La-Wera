@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../recursos pagina web/product card popup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pagina web quesos"
+	}
+}
